@@ -1,0 +1,928 @@
+
+Allegro setup complete, passing control back to Main
+
+
+Entering main_game_loop
+
+
+Rendering Engine is calling render terrain on the map pointer.
+
+
+Bottom Layer Bitmap Retrieving Camera Object Dimensions
+
+
+
+XMapOrigin in Pixels, YMap Origin in Pixels, Map Width in Pixels, Map Height in Pixels and Screen Width and Height in Pixels
+
+
+650
+
+750
+
+1920
+
+1080
+
+1920
+
+1080
+
+Running blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Exiting main game loop, passing control back to main.
+
+
+Entering shutdown_allegro, shutting down library
+
+
+Shutdown complete, passing control back to main
+
+Application run complete. Returning
+
+Allegro setup complete, passing control back to Main
+
+
+Entering main_game_loop
+
+
+Rendering Engine is calling render terrain on the map pointer.
+
+
+Bottom Layer Bitmap Retrieving Camera Object Dimensions
+
+
+
+XMapOrigin in Pixels, YMap Origin in Pixels, Map Width in Pixels, Map Height in Pixels and Screen Width and Height in Pixels
+
+
+650
+
+750
+
+1920
+
+1080
+
+1920
+
+1080
+
+Running blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Exiting main game loop, passing control back to main.
+
+
+Entering shutdown_allegro, shutting down library
+
+
+Shutdown complete, passing control back to main
+
+Application run complete. Returning
+
+Allegro setup complete, passing control back to Main
+
+
+Entering main_game_loop
+
+
+Rendering Engine is calling render terrain on the map pointer.
+
+
+Bottom Layer Bitmap Retrieving Camera Object Dimensions
+
+
+
+XMapOrigin in Pixels, YMap Origin in Pixels, Map Width in Pixels, Map Height in Pixels and Screen Width and Height in Pixels
+
+
+650
+
+750
+
+1920
+
+1080
+
+1920
+
+1080
+
+Running blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Exiting main game loop, passing control back to main.
+
+
+Entering shutdown_allegro, shutting down library
+
+
+Shutdown complete, passing control back to main
+
+Application run complete. Returning
+
+Allegro setup complete, passing control back to Main
+
+
+Entering main_game_loop
+
+
+Rendering Engine is calling render terrain on the map pointer.
+
+
+Bottom Layer Bitmap Retrieving Camera Object Dimensions
+
+
+
+XMapOrigin in Pixels, YMap Origin in Pixels, Map Width in Pixels, Map Height in Pixels and Screen Width and Height in Pixels
+
+
+650
+
+750
+
+1920
+
+1080
+
+1920
+
+1080
+
+Running blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Exiting main game loop, passing control back to main.
+
+
+Entering shutdown_allegro, shutting down library
+
+
+Shutdown complete, passing control back to main
+
+Application run complete. Returning
+
+Allegro setup complete, passing control back to Main
+
+
+Entering main_game_loop
+
+
+Rendering Engine is calling render terrain on the map pointer.
+
+
+Bottom Layer Bitmap Retrieving Camera Object Dimensions
+
+
+
+XMapOrigin in Pixels, YMap Origin in Pixels, Map Width in Pixels, Map Height in Pixels and Screen Width and Height in Pixels
+
+
+650
+
+750
+
+1920
+
+1080
+
+1920
+
+1080
+
+Running blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Exiting main game loop, passing control back to main.
+
+
+Entering shutdown_allegro, shutting down library
+
+
+Shutdown complete, passing control back to main
+
+Application run complete. Returning
+
+Allegro setup complete, passing control back to Main
+
+
+Entering main_game_loop
+
+
+Rendering Engine is calling render terrain on the map pointer.
+
+
+Bottom Layer Bitmap Retrieving Camera Object Dimensions
+
+
+
+XMapOrigin in Pixels, YMap Origin in Pixels, Map Width in Pixels, Map Height in Pixels and Screen Width and Height in Pixels
+
+
+650
+
+750
+
+1920
+
+1080
+
+1920
+
+1080
+
+Running blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Exiting main game loop, passing control back to main.
+
+
+Entering shutdown_allegro, shutting down library
+
+
+Shutdown complete, passing control back to main
+
+Application run complete. Returning
+
+Allegro setup complete, passing control back to Main
+
+
+Entering main_game_loop
+
+
+Rendering Engine is calling render terrain on the map pointer.
+
+
+Bottom Layer Bitmap Retrieving Camera Object Dimensions
+
+
+
+XMapOrigin in Pixels, YMap Origin in Pixels, Map Width in Pixels, Map Height in Pixels and Screen Width and Height in Pixels
+
+
+650
+
+750
+
+1920
+
+1080
+
+1920
+
+1080
+
+Running blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Exiting main game loop, passing control back to main.
+
+
+Entering shutdown_allegro, shutting down library
+
+
+Shutdown complete, passing control back to main
+
+Application run complete. Returning
+
+Allegro setup complete, passing control back to Main
+
+
+Entering main_game_loop
+
+
+Rendering Engine is calling render terrain on the map pointer.
+
+
+Bottom Layer Bitmap Retrieving Camera Object Dimensions
+
+
+
+XMapOrigin in Pixels, YMap Origin in Pixels, Map Width in Pixels, Map Height in Pixels and Screen Width and Height in Pixels
+
+
+650
+
+750
+
+1920
+
+1080
+
+1920
+
+1080
+
+Running blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Rendering Engine is calling render terrain on the map pointer.
+
+Running update blitting routine for rendering Engine
+
+Exiting main game loop, passing control back to main.
+
+
+Entering shutdown_allegro, shutting down library
+
+
+Shutdown complete, passing control back to main
+
+Application run complete. Returning
